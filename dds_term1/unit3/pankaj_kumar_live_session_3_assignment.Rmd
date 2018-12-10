@@ -249,15 +249,12 @@ mkdir unit3
 git add .
 git commit -m "adding unit 3 homework "
 
-
 git push
 
 
+#### Git URL:
 
-git URL:
-
-https://github.com/pankajti/smu_homework
-
+ > https://github.com/pankajti/smu_homework/tree/master/dds_term1/unit3
 
 
 
